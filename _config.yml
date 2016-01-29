@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8B078'
+    - '#581820'
+    - '#889060'
+    - '#C01828'
+    - '#F8F0B0'
+  brandStrength: 0.420477
+  lightness: 0.351291
+  rhythmicContrast: 0.264535
+  saturation: 0.699895
+cta: {}
+layout_spectrum: 0.93581
+name: Curious  Times
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.494882
